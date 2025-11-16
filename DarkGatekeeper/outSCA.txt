@@ -1,0 +1,6 @@
+[[96mremote_cw[0m] SSH to pi@remotechipwhisperer.example ok
+[[96mremote_cw[0m] Tunnel ready: 127.0.0.1:18812 → 127.0.0.1:18812
+[[96mremote_cw[0m] Connecting to 127.0.0.1:18812 …
+[[96mremote_cw[0m] [92mAcquired after 1s.[0m
+INFO: Found ChipWhisperer😍
+bytearray(b'ESC{J0lt_Th3_G473}')

@@ -1,0 +1,784 @@
+[[96mremote_cw[0m] SSH to pi@remotechipwhisperer.example ok
+[[96mremote_cw[0m] Tunnel ready: 127.0.0.1:18812 → 127.0.0.1:18812
+[[96mremote_cw[0m] Connecting to 127.0.0.1:18812 …
+[[96mremote_cw[0m] [92mAcquired after 6s.[0m
+INFO: Found ChipWhisperer😍
+[[96mremote_cw[0m] Falling back to /home/pi/remote_files (no permission for /remote_files).
+[[96mremote_cw[0m] Uploading /home/kristoj/Documents/TRX/ChipWhispererRemote/DarkGatekeeper/darkGatekeeper-CWNANO.hex → /home/pi/remote_files/darkGatekeeper-CWNANO.hex
+[+] Programmed target with darkGatekeeper-CWNANO.hex
+resets = 0 -- repeat = 2, ext_offset = 5, # 1 -> bytearray(b'Access Denied.....')
+resets = 0 -- repeat = 2, ext_offset = 5, # 2 -> bytearray(b'Access Denied.....')
+resets = 0 -- repeat = 2, ext_offset = 5, # 3 -> bytearray(b'Access Denied.....')
+resets = 0 -- repeat = 2, ext_offset = 5, # 4 -> bytearray(b'Access Denied.....')
+resets = 0 -- repeat = 2, ext_offset = 5, # 5 -> bytearray(b'Access Denied.....')
+resets = 0 -- repeat = 2, ext_offset = 5, # 6 -> bytearray(b'Access Denied.....')
+resets = 0 -- repeat = 2, ext_offset = 5, # 7 -> bytearray(b'Access Denied.....')
+resets = 0 -- repeat = 2, ext_offset = 5, # 8 -> bytearray(b'Access Denied.....')
+resets = 0 -- repeat = 2, ext_offset = 5, # 9 -> bytearray(b'Access Denied.....')
+resets = 0 -- repeat = 2, ext_offset = 5, # 10 -> None
+resets = 1 -- repeat = 2, ext_offset = 6, # 1 -> None
+resets = 2 -- repeat = 2, ext_offset = 6, # 2 -> None
+resets = 3 -- repeat = 2, ext_offset = 6, # 3 -> None
+resets = 4 -- repeat = 2, ext_offset = 6, # 4 -> None
+resets = 5 -- repeat = 2, ext_offset = 6, # 5 -> None
+resets = 6 -- repeat = 2, ext_offset = 6, # 6 -> None
+resets = 7 -- repeat = 2, ext_offset = 6, # 7 -> bytearray(b'Access Denied.....')
+resets = 7 -- repeat = 2, ext_offset = 6, # 8 -> None
+resets = 8 -- repeat = 2, ext_offset = 6, # 9 -> None
+resets = 9 -- repeat = 2, ext_offset = 6, # 10 -> None
+resets = 10 -- repeat = 2, ext_offset = 7, # 1 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 7, # 2 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 7, # 3 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 7, # 4 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 7, # 5 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 7, # 6 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 7, # 7 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 7, # 8 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 7, # 9 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 7, # 10 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 8, # 1 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 8, # 2 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 8, # 3 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 8, # 4 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 8, # 5 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 8, # 6 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 8, # 7 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 8, # 8 -> bytearray(b'Access Denied.....')
+resets = 10 -- repeat = 2, ext_offset = 8, # 9 -> None
+resets = 11 -- repeat = 2, ext_offset = 8, # 10 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 9, # 1 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 9, # 2 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 9, # 3 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 9, # 4 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 9, # 5 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 9, # 6 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 9, # 7 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 9, # 8 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 9, # 9 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 9, # 10 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 10, # 1 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 10, # 2 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 10, # 3 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 10, # 4 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 10, # 5 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 10, # 6 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 10, # 7 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 10, # 8 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 10, # 9 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 10, # 10 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 11, # 1 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 11, # 2 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 11, # 3 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 11, # 4 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 11, # 5 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 11, # 6 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 11, # 7 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 11, # 8 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 11, # 9 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 11, # 10 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 12, # 1 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 12, # 2 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 12, # 3 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 12, # 4 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 12, # 5 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 12, # 6 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 12, # 7 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 12, # 8 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 12, # 9 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 12, # 10 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 13, # 1 -> bytearray(b'Access Denied.....')
+resets = 11 -- repeat = 2, ext_offset = 13, # 2 -> None
+resets = 12 -- repeat = 2, ext_offset = 13, # 3 -> None
+resets = 13 -- repeat = 2, ext_offset = 13, # 4 -> None
+resets = 14 -- repeat = 2, ext_offset = 13, # 5 -> None
+resets = 15 -- repeat = 2, ext_offset = 13, # 6 -> None
+resets = 16 -- repeat = 2, ext_offset = 13, # 7 -> None
+resets = 17 -- repeat = 2, ext_offset = 13, # 8 -> None
+resets = 18 -- repeat = 2, ext_offset = 13, # 9 -> None
+resets = 19 -- repeat = 2, ext_offset = 13, # 10 -> None
+resets = 20 -- repeat = 2, ext_offset = 14, # 1 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 14, # 2 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 14, # 3 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 14, # 4 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 14, # 5 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 14, # 6 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 14, # 7 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 14, # 8 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 14, # 9 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 14, # 10 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 15, # 1 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 15, # 2 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 15, # 3 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 15, # 4 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 15, # 5 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 15, # 6 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 15, # 7 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 15, # 8 -> bytearray(b'Access Denied.....')
+resets = 20 -- repeat = 2, ext_offset = 15, # 9 -> None
+resets = 21 -- repeat = 2, ext_offset = 15, # 10 -> bytearray(b'Access Denied.....')
+resets = 21 -- repeat = 2, ext_offset = 16, # 1 -> bytearray(b'Access Denied.....')
+resets = 21 -- repeat = 2, ext_offset = 16, # 2 -> bytearray(b'Access Denied.....')
+resets = 21 -- repeat = 2, ext_offset = 16, # 3 -> bytearray(b'Access Denied.....')
+resets = 21 -- repeat = 2, ext_offset = 16, # 4 -> bytearray(b'Access Denied.....')
+resets = 21 -- repeat = 2, ext_offset = 16, # 5 -> bytearray(b'Access Denied.....')
+resets = 21 -- repeat = 2, ext_offset = 16, # 6 -> bytearray(b'Access Denied.....')
+resets = 21 -- repeat = 2, ext_offset = 16, # 7 -> bytearray(b'Access Denied.....')
+resets = 21 -- repeat = 2, ext_offset = 16, # 8 -> bytearray(b'Access Denied.....')
+resets = 21 -- repeat = 2, ext_offset = 16, # 9 -> bytearray(b'Access Denied.....')
+resets = 21 -- repeat = 2, ext_offset = 16, # 10 -> bytearray(b'Access Denied.....')
+resets = 21 -- repeat = 2, ext_offset = 17, # 1 -> None
+resets = 22 -- repeat = 2, ext_offset = 17, # 2 -> bytearray(b'Access Denied.....')
+resets = 22 -- repeat = 2, ext_offset = 17, # 3 -> None
+resets = 23 -- repeat = 2, ext_offset = 17, # 4 -> None
+resets = 24 -- repeat = 2, ext_offset = 17, # 5 -> bytearray(b'Access Denied.....')
+resets = 24 -- repeat = 2, ext_offset = 17, # 6 -> bytearray(b'Access Denied.....')
+resets = 24 -- repeat = 2, ext_offset = 17, # 7 -> bytearray(b'Access Denied.....')
+resets = 24 -- repeat = 2, ext_offset = 17, # 8 -> None
+resets = 25 -- repeat = 2, ext_offset = 17, # 9 -> None
+resets = 26 -- repeat = 2, ext_offset = 17, # 10 -> None
+resets = 27 -- repeat = 2, ext_offset = 18, # 1 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 18, # 2 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 18, # 3 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 18, # 4 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 18, # 5 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 18, # 6 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 18, # 7 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 18, # 8 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 18, # 9 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 18, # 10 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 19, # 1 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 19, # 2 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 19, # 3 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 19, # 4 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 19, # 5 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 19, # 6 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 19, # 7 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 19, # 8 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 19, # 9 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 19, # 10 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 20, # 1 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 20, # 2 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 20, # 3 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 20, # 4 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 20, # 5 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 20, # 6 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 20, # 7 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 20, # 8 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 20, # 9 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 20, # 10 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 21, # 1 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 21, # 2 -> bytearray(b'Access Denied.....')
+resets = 27 -- repeat = 2, ext_offset = 21, # 3 -> None
+resets = 28 -- repeat = 2, ext_offset = 21, # 4 -> None
+resets = 29 -- repeat = 2, ext_offset = 21, # 5 -> None
+resets = 30 -- repeat = 2, ext_offset = 21, # 6 -> bytearray(b'Access Denied.....')
+resets = 30 -- repeat = 2, ext_offset = 21, # 7 -> bytearray(b'Access Denied.....')
+resets = 30 -- repeat = 2, ext_offset = 21, # 8 -> None
+resets = 31 -- repeat = 2, ext_offset = 21, # 9 -> bytearray(b'Access Denied.....')
+resets = 31 -- repeat = 2, ext_offset = 21, # 10 -> bytearray(b'Access Denied.....')
+resets = 31 -- repeat = 2, ext_offset = 22, # 1 -> bytearray(b'Access Denied.....')
+resets = 31 -- repeat = 2, ext_offset = 22, # 2 -> bytearray(b'Access Denied.....')
+resets = 31 -- repeat = 2, ext_offset = 22, # 3 -> bytearray(b'Access Denied.....')
+resets = 31 -- repeat = 2, ext_offset = 22, # 4 -> None
+resets = 32 -- repeat = 2, ext_offset = 22, # 5 -> bytearray(b'Access Denied.....')
+resets = 32 -- repeat = 2, ext_offset = 22, # 6 -> bytearray(b'Access Denied.....')
+resets = 32 -- repeat = 2, ext_offset = 22, # 7 -> bytearray(b'Access Denied.....')
+resets = 32 -- repeat = 2, ext_offset = 22, # 8 -> bytearray(b'Access Denied.....')
+resets = 32 -- repeat = 2, ext_offset = 22, # 9 -> bytearray(b'Access Denied.....')
+resets = 32 -- repeat = 2, ext_offset = 22, # 10 -> bytearray(b'Access Denied.....')
+resets = 32 -- repeat = 2, ext_offset = 23, # 1 -> bytearray(b'Access Denied.....')
+resets = 32 -- repeat = 2, ext_offset = 23, # 2 -> bytearray(b'Access Denied.....')
+resets = 32 -- repeat = 2, ext_offset = 23, # 3 -> bytearray(b'Access Denied.....')
+resets = 32 -- repeat = 2, ext_offset = 23, # 4 -> bytearray(b'Access Denied.....')
+resets = 32 -- repeat = 2, ext_offset = 23, # 5 -> bytearray(b'Access Denied.....')
+resets = 32 -- repeat = 2, ext_offset = 23, # 6 -> bytearray(b'Access Denied.....')
+resets = 32 -- repeat = 2, ext_offset = 23, # 7 -> None
+resets = 33 -- repeat = 2, ext_offset = 23, # 8 -> bytearray(b'Access Denied.....')
+resets = 33 -- repeat = 2, ext_offset = 23, # 9 -> bytearray(b'Access Denied.....')
+resets = 33 -- repeat = 2, ext_offset = 23, # 10 -> bytearray(b'Access Denied.....')
+resets = 33 -- repeat = 2, ext_offset = 24, # 1 -> bytearray(b'Access Denied.....')
+resets = 33 -- repeat = 2, ext_offset = 24, # 2 -> None
+resets = 34 -- repeat = 2, ext_offset = 24, # 3 -> None
+resets = 35 -- repeat = 2, ext_offset = 24, # 4 -> bytearray(b'Access Denied.....')
+resets = 35 -- repeat = 2, ext_offset = 24, # 5 -> None
+resets = 36 -- repeat = 2, ext_offset = 24, # 6 -> bytearray(b'Access Denied.....')
+resets = 36 -- repeat = 2, ext_offset = 24, # 7 -> bytearray(b'Access Denied.....')
+resets = 36 -- repeat = 2, ext_offset = 24, # 8 -> None
+resets = 37 -- repeat = 2, ext_offset = 24, # 9 -> None
+resets = 38 -- repeat = 2, ext_offset = 24, # 10 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 25, # 1 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 25, # 2 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 25, # 3 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 25, # 4 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 25, # 5 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 25, # 6 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 25, # 7 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 25, # 8 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 25, # 9 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 25, # 10 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 26, # 1 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 26, # 2 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 26, # 3 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 26, # 4 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 26, # 5 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 26, # 6 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 26, # 7 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 26, # 8 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 26, # 9 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 26, # 10 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 27, # 1 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 27, # 2 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 27, # 3 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 27, # 4 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 27, # 5 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 27, # 6 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 27, # 7 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 27, # 8 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 27, # 9 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 27, # 10 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 28, # 1 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 28, # 2 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 28, # 3 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 28, # 4 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 28, # 5 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 28, # 6 -> bytearray(b'Access Denied.....')
+resets = 38 -- repeat = 2, ext_offset = 28, # 7 -> None
+resets = 39 -- repeat = 2, ext_offset = 28, # 8 -> bytearray(b'Access Denied.....')
+resets = 39 -- repeat = 2, ext_offset = 28, # 9 -> bytearray(b'Access Denied.....')
+resets = 39 -- repeat = 2, ext_offset = 28, # 10 -> bytearray(b'Access Denied.....')
+resets = 39 -- repeat = 2, ext_offset = 29, # 1 -> bytearray(b'Access Denied.....')
+resets = 39 -- repeat = 2, ext_offset = 29, # 2 -> None
+resets = 40 -- repeat = 2, ext_offset = 29, # 3 -> None
+resets = 41 -- repeat = 2, ext_offset = 29, # 4 -> bytearray(b'Access Denied.....')
+resets = 41 -- repeat = 2, ext_offset = 29, # 5 -> bytearray(b'Access Denied.....')
+resets = 41 -- repeat = 2, ext_offset = 29, # 6 -> bytearray(b'Access Denied.....')
+resets = 41 -- repeat = 2, ext_offset = 29, # 7 -> bytearray(b'Access Denied.....')
+resets = 41 -- repeat = 2, ext_offset = 29, # 8 -> None
+resets = 42 -- repeat = 2, ext_offset = 29, # 9 -> None
+resets = 43 -- repeat = 2, ext_offset = 29, # 10 -> bytearray(b'Access Denied.....')
+resets = 43 -- repeat = 2, ext_offset = 30, # 1 -> bytearray(b'Access Denied.....')
+resets = 43 -- repeat = 2, ext_offset = 30, # 2 -> bytearray(b'Access Denied.....')
+resets = 43 -- repeat = 2, ext_offset = 30, # 3 -> bytearray(b'Access Denied.....')
+resets = 43 -- repeat = 2, ext_offset = 30, # 4 -> bytearray(b'Access Denied.....')
+resets = 43 -- repeat = 2, ext_offset = 30, # 5 -> bytearray(b'Access Denied.....')
+resets = 43 -- repeat = 2, ext_offset = 30, # 6 -> bytearray(b'Access Denied.....')
+resets = 43 -- repeat = 2, ext_offset = 30, # 7 -> bytearray(b'Access Denied.....')
+resets = 43 -- repeat = 2, ext_offset = 30, # 8 -> bytearray(b'Access Denied.....')
+resets = 43 -- repeat = 2, ext_offset = 30, # 9 -> bytearray(b'Access Denied.....')
+resets = 43 -- repeat = 2, ext_offset = 30, # 10 -> None
+resets = 44 -- repeat = 2, ext_offset = 31, # 1 -> None
+resets = 45 -- repeat = 2, ext_offset = 31, # 2 -> None
+resets = 46 -- repeat = 2, ext_offset = 31, # 3 -> bytearray(b'Access Denied.....')
+resets = 46 -- repeat = 2, ext_offset = 31, # 4 -> None
+resets = 47 -- repeat = 2, ext_offset = 31, # 5 -> None
+resets = 48 -- repeat = 2, ext_offset = 31, # 6 -> bytearray(b'Access Denied.....')
+resets = 48 -- repeat = 2, ext_offset = 31, # 7 -> None
+resets = 49 -- repeat = 2, ext_offset = 31, # 8 -> None
+resets = 50 -- repeat = 2, ext_offset = 31, # 9 -> None
+resets = 51 -- repeat = 2, ext_offset = 31, # 10 -> None
+resets = 52 -- repeat = 2, ext_offset = 32, # 1 -> bytearray(b'Access Denied.....')
+resets = 52 -- repeat = 2, ext_offset = 32, # 2 -> bytearray(b'Access Denied.....')
+resets = 52 -- repeat = 2, ext_offset = 32, # 3 -> bytearray(b'Access Denied.....')
+resets = 52 -- repeat = 2, ext_offset = 32, # 4 -> bytearray(b'Access Denied.....')
+resets = 52 -- repeat = 2, ext_offset = 32, # 5 -> bytearray(b'Access Denied.....')
+resets = 52 -- repeat = 2, ext_offset = 32, # 6 -> None
+resets = 53 -- repeat = 2, ext_offset = 32, # 7 -> None
+resets = 54 -- repeat = 2, ext_offset = 32, # 8 -> bytearray(b'Access Denied.....')
+resets = 54 -- repeat = 2, ext_offset = 32, # 9 -> bytearray(b'Access Denied.....')
+resets = 54 -- repeat = 2, ext_offset = 32, # 10 -> None
+resets = 55 -- repeat = 2, ext_offset = 33, # 1 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 33, # 2 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 33, # 3 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 33, # 4 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 33, # 5 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 33, # 6 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 33, # 7 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 33, # 8 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 33, # 9 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 33, # 10 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 34, # 1 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 34, # 2 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 34, # 3 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 34, # 4 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 34, # 5 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 34, # 6 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 34, # 7 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 34, # 8 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 34, # 9 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 34, # 10 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 35, # 1 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 35, # 2 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 35, # 3 -> bytearray(b'Access Denied.....')
+resets = 55 -- repeat = 2, ext_offset = 35, # 4 -> None
+resets = 56 -- repeat = 2, ext_offset = 35, # 5 -> bytearray(b'Access Denied.....')
+resets = 56 -- repeat = 2, ext_offset = 35, # 6 -> bytearray(b'Access Denied.....')
+resets = 56 -- repeat = 2, ext_offset = 35, # 7 -> bytearray(b'Access Denied.....')
+resets = 56 -- repeat = 2, ext_offset = 35, # 8 -> bytearray(b'Access Denied.....')
+resets = 56 -- repeat = 2, ext_offset = 35, # 9 -> bytearray(b'Access Denied.....')
+resets = 56 -- repeat = 2, ext_offset = 35, # 10 -> bytearray(b'Access Denied.....')
+resets = 56 -- repeat = 2, ext_offset = 36, # 1 -> None
+resets = 57 -- repeat = 2, ext_offset = 36, # 2 -> bytearray(b'Access Denied.....')
+resets = 57 -- repeat = 2, ext_offset = 36, # 3 -> None
+resets = 58 -- repeat = 2, ext_offset = 36, # 4 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 36, # 5 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 36, # 6 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 36, # 7 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 36, # 8 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 36, # 9 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 36, # 10 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 37, # 1 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 37, # 2 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 37, # 3 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 37, # 4 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 37, # 5 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 37, # 6 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 37, # 7 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 37, # 8 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 37, # 9 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 37, # 10 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 38, # 1 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 38, # 2 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 38, # 3 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 38, # 4 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 38, # 5 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 38, # 6 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 38, # 7 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 38, # 8 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 38, # 9 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 38, # 10 -> bytearray(b'Access Denied.....')
+resets = 58 -- repeat = 2, ext_offset = 39, # 1 -> None
+resets = 59 -- repeat = 2, ext_offset = 39, # 2 -> bytearray(b'Access Denied.....')
+resets = 59 -- repeat = 2, ext_offset = 39, # 3 -> None
+resets = 60 -- repeat = 2, ext_offset = 39, # 4 -> bytearray(b'Access Denied.....')
+resets = 60 -- repeat = 2, ext_offset = 39, # 5 -> None
+resets = 61 -- repeat = 2, ext_offset = 39, # 6 -> None
+resets = 62 -- repeat = 2, ext_offset = 39, # 7 -> bytearray(b'Access Denied.....')
+resets = 62 -- repeat = 2, ext_offset = 39, # 8 -> bytearray(b'Access Denied.....')
+resets = 62 -- repeat = 2, ext_offset = 39, # 9 -> None
+resets = 63 -- repeat = 2, ext_offset = 39, # 10 -> None
+resets = 64 -- repeat = 2, ext_offset = 40, # 1 -> bytearray(b'Access Denied.....')
+resets = 64 -- repeat = 2, ext_offset = 40, # 2 -> bytearray(b'Access Denied.....')
+resets = 64 -- repeat = 2, ext_offset = 40, # 3 -> bytearray(b'Access Denied.....')
+resets = 64 -- repeat = 2, ext_offset = 40, # 4 -> bytearray(b'Access Denied.....')
+resets = 64 -- repeat = 2, ext_offset = 40, # 5 -> bytearray(b'Access Denied.....')
+resets = 64 -- repeat = 2, ext_offset = 40, # 6 -> bytearray(b'Access Denied.....')
+resets = 64 -- repeat = 2, ext_offset = 40, # 7 -> bytearray(b'Access Denied.....')
+resets = 64 -- repeat = 2, ext_offset = 40, # 8 -> bytearray(b'Access Denied.....')
+resets = 64 -- repeat = 2, ext_offset = 40, # 9 -> bytearray(b'Access Denied.....')
+resets = 64 -- repeat = 2, ext_offset = 40, # 10 -> bytearray(b'Access Denied.....')
+resets = 64 -- repeat = 3, ext_offset = 5, # 1 -> None
+resets = 65 -- repeat = 3, ext_offset = 5, # 2 -> None
+resets = 66 -- repeat = 3, ext_offset = 5, # 3 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 5, # 4 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 5, # 5 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 5, # 6 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 5, # 7 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 5, # 8 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 5, # 9 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 5, # 10 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 6, # 1 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 6, # 2 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 6, # 3 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 6, # 4 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 6, # 5 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 6, # 6 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 6, # 7 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 6, # 8 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 6, # 9 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 6, # 10 -> bytearray(b'Access Denied.....')
+resets = 66 -- repeat = 3, ext_offset = 7, # 1 -> None
+resets = 67 -- repeat = 3, ext_offset = 7, # 2 -> bytearray(b'Access Denied.....')
+resets = 67 -- repeat = 3, ext_offset = 7, # 3 -> bytearray(b'Access Denied.....')
+resets = 67 -- repeat = 3, ext_offset = 7, # 4 -> bytearray(b'Access Denied.....')
+resets = 67 -- repeat = 3, ext_offset = 7, # 5 -> bytearray(b'Access Denied.....')
+resets = 67 -- repeat = 3, ext_offset = 7, # 6 -> None
+resets = 68 -- repeat = 3, ext_offset = 7, # 7 -> None
+resets = 69 -- repeat = 3, ext_offset = 7, # 8 -> bytearray(b'Access Denied.....')
+resets = 69 -- repeat = 3, ext_offset = 7, # 9 -> bytearray(b'Access Denied.....')
+resets = 69 -- repeat = 3, ext_offset = 7, # 10 -> bytearray(b'Access Denied.....')
+resets = 69 -- repeat = 3, ext_offset = 8, # 1 -> bytearray(b'Access Denied.....')
+resets = 69 -- repeat = 3, ext_offset = 8, # 2 -> bytearray(b'Access Denied.....')
+resets = 69 -- repeat = 3, ext_offset = 8, # 3 -> bytearray(b'Access Denied.....')
+resets = 69 -- repeat = 3, ext_offset = 8, # 4 -> bytearray(b'Access Denied.....')
+resets = 69 -- repeat = 3, ext_offset = 8, # 5 -> bytearray(b'Access Denied.....')
+resets = 69 -- repeat = 3, ext_offset = 8, # 6 -> bytearray(b'Access Denied.....')
+resets = 69 -- repeat = 3, ext_offset = 8, # 7 -> bytearray(b'Access Denied.....')
+resets = 69 -- repeat = 3, ext_offset = 8, # 8 -> bytearray(b'Access Denied.....')
+resets = 69 -- repeat = 3, ext_offset = 8, # 9 -> bytearray(b'Access Denied.....')
+resets = 69 -- repeat = 3, ext_offset = 8, # 10 -> bytearray(b'Access Denied.....')
+resets = 69 -- repeat = 3, ext_offset = 9, # 1 -> None
+resets = 70 -- repeat = 3, ext_offset = 9, # 2 -> bytearray(b'Access Denied.....')
+resets = 70 -- repeat = 3, ext_offset = 9, # 3 -> None
+resets = 71 -- repeat = 3, ext_offset = 9, # 4 -> bytearray(b'Access Denied.....')
+resets = 71 -- repeat = 3, ext_offset = 9, # 5 -> None
+resets = 72 -- repeat = 3, ext_offset = 9, # 6 -> bytearray(b'Access Denied.....')
+resets = 72 -- repeat = 3, ext_offset = 9, # 7 -> None
+resets = 73 -- repeat = 3, ext_offset = 9, # 8 -> None
+resets = 74 -- repeat = 3, ext_offset = 9, # 9 -> bytearray(b'Access Denied.....')
+resets = 74 -- repeat = 3, ext_offset = 9, # 10 -> None
+resets = 75 -- repeat = 3, ext_offset = 10, # 1 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 10, # 2 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 10, # 3 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 10, # 4 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 10, # 5 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 10, # 6 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 10, # 7 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 10, # 8 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 10, # 9 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 10, # 10 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 11, # 1 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 11, # 2 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 11, # 3 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 11, # 4 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 11, # 5 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 11, # 6 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 11, # 7 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 11, # 8 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 11, # 9 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 11, # 10 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 12, # 1 -> bytearray(b'Access Denied.....')
+resets = 75 -- repeat = 3, ext_offset = 12, # 2 -> None
+resets = 76 -- repeat = 3, ext_offset = 12, # 3 -> None
+resets = 77 -- repeat = 3, ext_offset = 12, # 4 -> None
+resets = 78 -- repeat = 3, ext_offset = 12, # 5 -> bytearray(b'Access Denied.....')
+resets = 78 -- repeat = 3, ext_offset = 12, # 6 -> None
+resets = 79 -- repeat = 3, ext_offset = 12, # 7 -> bytearray(b'Access Denied.....')
+resets = 79 -- repeat = 3, ext_offset = 12, # 8 -> None
+resets = 80 -- repeat = 3, ext_offset = 12, # 9 -> bytearray(b'Access Denied.....')
+resets = 80 -- repeat = 3, ext_offset = 12, # 10 -> None
+resets = 81 -- repeat = 3, ext_offset = 13, # 1 -> bytearray(b'Access Denied.....')
+resets = 81 -- repeat = 3, ext_offset = 13, # 2 -> bytearray(b'Access Denied.....')
+resets = 81 -- repeat = 3, ext_offset = 13, # 3 -> bytearray(b'Access Denied.....')
+resets = 81 -- repeat = 3, ext_offset = 13, # 4 -> bytearray(b'Access Denied.....')
+resets = 81 -- repeat = 3, ext_offset = 13, # 5 -> bytearray(b'Access Denied.....')
+resets = 81 -- repeat = 3, ext_offset = 13, # 6 -> bytearray(b'Access Denied.....')
+resets = 81 -- repeat = 3, ext_offset = 13, # 7 -> bytearray(b'Access Denied.....')
+resets = 81 -- repeat = 3, ext_offset = 13, # 8 -> bytearray(b'Access Denied.....')
+resets = 81 -- repeat = 3, ext_offset = 13, # 9 -> bytearray(b'Access Denied.....')
+resets = 81 -- repeat = 3, ext_offset = 13, # 10 -> bytearray(b'Access Denied.....')
+resets = 81 -- repeat = 3, ext_offset = 14, # 1 -> bytearray(b'Access Denied.....')
+resets = 81 -- repeat = 3, ext_offset = 14, # 2 -> None
+resets = 82 -- repeat = 3, ext_offset = 14, # 3 -> bytearray(b'Access Denied.....')
+resets = 82 -- repeat = 3, ext_offset = 14, # 4 -> bytearray(b'Access Denied.....')
+resets = 82 -- repeat = 3, ext_offset = 14, # 5 -> bytearray(b'Access Denied.....')
+resets = 82 -- repeat = 3, ext_offset = 14, # 6 -> None
+resets = 83 -- repeat = 3, ext_offset = 14, # 7 -> bytearray(b'Access Denied.....')
+resets = 83 -- repeat = 3, ext_offset = 14, # 8 -> None
+resets = 84 -- repeat = 3, ext_offset = 14, # 9 -> bytearray(b'Access Denied.....')
+resets = 84 -- repeat = 3, ext_offset = 14, # 10 -> bytearray(b'Access Denied.....')
+resets = 84 -- repeat = 3, ext_offset = 15, # 1 -> bytearray(b'Access Denied.....')
+resets = 84 -- repeat = 3, ext_offset = 15, # 2 -> bytearray(b'Access Denied.....')
+resets = 84 -- repeat = 3, ext_offset = 15, # 3 -> bytearray(b'Access Denied.....')
+resets = 84 -- repeat = 3, ext_offset = 15, # 4 -> bytearray(b'Access Denied.....')
+resets = 84 -- repeat = 3, ext_offset = 15, # 5 -> bytearray(b'Access Denied.....')
+resets = 84 -- repeat = 3, ext_offset = 15, # 6 -> bytearray(b'Access Denied.....')
+resets = 84 -- repeat = 3, ext_offset = 15, # 7 -> bytearray(b'Access Denied.....')
+resets = 84 -- repeat = 3, ext_offset = 15, # 8 -> bytearray(b'Access Denied.....')
+resets = 84 -- repeat = 3, ext_offset = 15, # 9 -> bytearray(b'Access Denied.....')
+resets = 84 -- repeat = 3, ext_offset = 15, # 10 -> bytearray(b'Access Denied.....')
+resets = 84 -- repeat = 3, ext_offset = 16, # 1 -> None
+resets = 85 -- repeat = 3, ext_offset = 16, # 2 -> None
+resets = 86 -- repeat = 3, ext_offset = 16, # 3 -> None
+resets = 87 -- repeat = 3, ext_offset = 16, # 4 -> bytearray(b'Access Denied.....')
+resets = 87 -- repeat = 3, ext_offset = 16, # 5 -> None
+resets = 88 -- repeat = 3, ext_offset = 16, # 6 -> bytearray(b'Access Denied.....')
+resets = 88 -- repeat = 3, ext_offset = 16, # 7 -> None
+resets = 89 -- repeat = 3, ext_offset = 16, # 8 -> None
+resets = 90 -- repeat = 3, ext_offset = 16, # 9 -> None
+resets = 91 -- repeat = 3, ext_offset = 16, # 10 -> None
+resets = 92 -- repeat = 3, ext_offset = 17, # 1 -> None
+resets = 93 -- repeat = 3, ext_offset = 17, # 2 -> None
+resets = 94 -- repeat = 3, ext_offset = 17, # 3 -> None
+resets = 95 -- repeat = 3, ext_offset = 17, # 4 -> bytearray(b'Access Denied.....')
+resets = 95 -- repeat = 3, ext_offset = 17, # 5 -> None
+resets = 96 -- repeat = 3, ext_offset = 17, # 6 -> None
+resets = 97 -- repeat = 3, ext_offset = 17, # 7 -> None
+resets = 98 -- repeat = 3, ext_offset = 17, # 8 -> None
+resets = 99 -- repeat = 3, ext_offset = 17, # 9 -> None
+resets = 100 -- repeat = 3, ext_offset = 17, # 10 -> None
+resets = 101 -- repeat = 3, ext_offset = 18, # 1 -> bytearray(b'Access Denied.....')
+resets = 101 -- repeat = 3, ext_offset = 18, # 2 -> bytearray(b'Access Denied.....')
+resets = 101 -- repeat = 3, ext_offset = 18, # 3 -> bytearray(b'Access Denied.....')
+resets = 101 -- repeat = 3, ext_offset = 18, # 4 -> bytearray(b'Access Denied.....')
+resets = 101 -- repeat = 3, ext_offset = 18, # 5 -> bytearray(b'Access Denied.....')
+resets = 101 -- repeat = 3, ext_offset = 18, # 6 -> None
+resets = 102 -- repeat = 3, ext_offset = 18, # 7 -> bytearray(b'Access Denied.....')
+resets = 102 -- repeat = 3, ext_offset = 18, # 8 -> bytearray(b'Access Denied.....')
+resets = 102 -- repeat = 3, ext_offset = 18, # 9 -> bytearray(b'Access Denied.....')
+resets = 102 -- repeat = 3, ext_offset = 18, # 10 -> None
+resets = 103 -- repeat = 3, ext_offset = 19, # 1 -> None
+resets = 104 -- repeat = 3, ext_offset = 19, # 2 -> bytearray(b'Access Denied.....')
+resets = 104 -- repeat = 3, ext_offset = 19, # 3 -> None
+resets = 105 -- repeat = 3, ext_offset = 19, # 4 -> None
+resets = 106 -- repeat = 3, ext_offset = 19, # 5 -> None
+resets = 107 -- repeat = 3, ext_offset = 19, # 6 -> None
+resets = 108 -- repeat = 3, ext_offset = 19, # 7 -> None
+resets = 109 -- repeat = 3, ext_offset = 19, # 8 -> bytearray(b'Access Denied.....')
+resets = 109 -- repeat = 3, ext_offset = 19, # 9 -> bytearray(b'Access Denied.....')
+resets = 109 -- repeat = 3, ext_offset = 19, # 10 -> None
+resets = 110 -- repeat = 3, ext_offset = 20, # 1 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 20, # 2 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 20, # 3 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 20, # 4 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 20, # 5 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 20, # 6 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 20, # 7 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 20, # 8 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 20, # 9 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 20, # 10 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 21, # 1 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 21, # 2 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 21, # 3 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 21, # 4 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 21, # 5 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 21, # 6 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 21, # 7 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 21, # 8 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 21, # 9 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 21, # 10 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 22, # 1 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 22, # 2 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 22, # 3 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 22, # 4 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 22, # 5 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 22, # 6 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 22, # 7 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 22, # 8 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 22, # 9 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 22, # 10 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 23, # 1 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 23, # 2 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 23, # 3 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 23, # 4 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 23, # 5 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 23, # 6 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 23, # 7 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 23, # 8 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 23, # 9 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 23, # 10 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 24, # 1 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 24, # 2 -> bytearray(b'Access Denied.....')
+resets = 110 -- repeat = 3, ext_offset = 24, # 3 -> None
+resets = 111 -- repeat = 3, ext_offset = 24, # 4 -> bytearray(b'Access Denied.....')
+resets = 111 -- repeat = 3, ext_offset = 24, # 5 -> None
+resets = 112 -- repeat = 3, ext_offset = 24, # 6 -> bytearray(b'Access Denied.....')
+resets = 112 -- repeat = 3, ext_offset = 24, # 7 -> None
+resets = 113 -- repeat = 3, ext_offset = 24, # 8 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 24, # 9 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 24, # 10 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 25, # 1 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 25, # 2 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 25, # 3 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 25, # 4 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 25, # 5 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 25, # 6 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 25, # 7 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 25, # 8 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 25, # 9 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 25, # 10 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 26, # 1 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 26, # 2 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 26, # 3 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 26, # 4 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 26, # 5 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 26, # 6 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 26, # 7 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 26, # 8 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 26, # 9 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 26, # 10 -> bytearray(b'Access Denied.....')
+resets = 113 -- repeat = 3, ext_offset = 27, # 1 -> None
+resets = 114 -- repeat = 3, ext_offset = 27, # 2 -> None
+resets = 115 -- repeat = 3, ext_offset = 27, # 3 -> None
+resets = 116 -- repeat = 3, ext_offset = 27, # 4 -> None
+resets = 117 -- repeat = 3, ext_offset = 27, # 5 -> None
+resets = 118 -- repeat = 3, ext_offset = 27, # 6 -> bytearray(b'Access Denied.....')
+resets = 118 -- repeat = 3, ext_offset = 27, # 7 -> None
+resets = 119 -- repeat = 3, ext_offset = 27, # 8 -> None
+resets = 120 -- repeat = 3, ext_offset = 27, # 9 -> None
+resets = 121 -- repeat = 3, ext_offset = 27, # 10 -> None
+resets = 122 -- repeat = 3, ext_offset = 28, # 1 -> bytearray(b'Access Denied.....')
+resets = 122 -- repeat = 3, ext_offset = 28, # 2 -> bytearray(b'Access Denied.....')
+resets = 122 -- repeat = 3, ext_offset = 28, # 3 -> bytearray(b'Access Denied.....')
+resets = 122 -- repeat = 3, ext_offset = 28, # 4 -> bytearray(b'Access Denied.....')
+resets = 122 -- repeat = 3, ext_offset = 28, # 5 -> bytearray(b'Access Denied.....')
+resets = 122 -- repeat = 3, ext_offset = 28, # 6 -> bytearray(b'Access Denied.....')
+resets = 122 -- repeat = 3, ext_offset = 28, # 7 -> bytearray(b'Access Denied.....')
+resets = 122 -- repeat = 3, ext_offset = 28, # 8 -> bytearray(b'Access Denied.....')
+resets = 122 -- repeat = 3, ext_offset = 28, # 9 -> bytearray(b'Access Denied.....')
+resets = 122 -- repeat = 3, ext_offset = 28, # 10 -> bytearray(b'Access Denied.....')
+resets = 122 -- repeat = 3, ext_offset = 29, # 1 -> bytearray(b'Access Denied.....')
+resets = 122 -- repeat = 3, ext_offset = 29, # 2 -> None
+resets = 123 -- repeat = 3, ext_offset = 29, # 3 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 29, # 4 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 29, # 5 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 29, # 6 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 29, # 7 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 29, # 8 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 29, # 9 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 29, # 10 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 30, # 1 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 30, # 2 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 30, # 3 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 30, # 4 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 30, # 5 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 30, # 6 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 30, # 7 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 30, # 8 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 30, # 9 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 30, # 10 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 31, # 1 -> bytearray(b'Access Denied.....')
+resets = 123 -- repeat = 3, ext_offset = 31, # 2 -> None
+resets = 124 -- repeat = 3, ext_offset = 31, # 3 -> bytearray(b'Access Denied.....')
+resets = 124 -- repeat = 3, ext_offset = 31, # 4 -> None
+resets = 125 -- repeat = 3, ext_offset = 31, # 5 -> bytearray(b'Access Denied.....')
+resets = 125 -- repeat = 3, ext_offset = 31, # 6 -> None
+resets = 126 -- repeat = 3, ext_offset = 31, # 7 -> bytearray(b'Access Denied.....')
+resets = 126 -- repeat = 3, ext_offset = 31, # 8 -> bytearray(b'Access Denied.....')
+resets = 126 -- repeat = 3, ext_offset = 31, # 9 -> None
+resets = 127 -- repeat = 3, ext_offset = 31, # 10 -> bytearray(b'Access Denied.....')
+resets = 127 -- repeat = 3, ext_offset = 32, # 1 -> None
+resets = 128 -- repeat = 3, ext_offset = 32, # 2 -> None
+resets = 129 -- repeat = 3, ext_offset = 32, # 3 -> None
+resets = 130 -- repeat = 3, ext_offset = 32, # 4 -> None
+resets = 131 -- repeat = 3, ext_offset = 32, # 5 -> None
+resets = 132 -- repeat = 3, ext_offset = 32, # 6 -> None
+resets = 133 -- repeat = 3, ext_offset = 32, # 7 -> bytearray(b'Access Denied.....')
+resets = 133 -- repeat = 3, ext_offset = 32, # 8 -> None
+resets = 134 -- repeat = 3, ext_offset = 32, # 9 -> None
+resets = 135 -- repeat = 3, ext_offset = 32, # 10 -> None
+resets = 136 -- repeat = 3, ext_offset = 33, # 1 -> bytearray(b'Access Denied.....')
+resets = 136 -- repeat = 3, ext_offset = 33, # 2 -> bytearray(b'Access Denied.....')
+resets = 136 -- repeat = 3, ext_offset = 33, # 3 -> bytearray(b'Access Denied.....')
+resets = 136 -- repeat = 3, ext_offset = 33, # 4 -> bytearray(b'Access Denied.....')
+resets = 136 -- repeat = 3, ext_offset = 33, # 5 -> bytearray(b'Access Denied.....')
+resets = 136 -- repeat = 3, ext_offset = 33, # 6 -> bytearray(b'Access Denied.....')
+resets = 136 -- repeat = 3, ext_offset = 33, # 7 -> bytearray(b'Access Denied.....')
+resets = 136 -- repeat = 3, ext_offset = 33, # 8 -> bytearray(b'Access Denied.....')
+resets = 136 -- repeat = 3, ext_offset = 33, # 9 -> bytearray(b'Access Denied.....')
+resets = 136 -- repeat = 3, ext_offset = 33, # 10 -> bytearray(b'Access Denied.....')
+resets = 136 -- repeat = 3, ext_offset = 34, # 1 -> bytearray(b'Access Denied.....')
+resets = 136 -- repeat = 3, ext_offset = 34, # 2 -> bytearray(b'Access Denied.....')
+resets = 136 -- repeat = 3, ext_offset = 34, # 3 -> None
+resets = 137 -- repeat = 3, ext_offset = 34, # 4 -> bytearray(b'Access Denied.....')
+resets = 137 -- repeat = 3, ext_offset = 34, # 5 -> None
+resets = 138 -- repeat = 3, ext_offset = 34, # 6 -> bytearray(b'Access Denied.....')
+resets = 138 -- repeat = 3, ext_offset = 34, # 7 -> None
+resets = 139 -- repeat = 3, ext_offset = 34, # 8 -> bytearray(b'Access Denied.....')
+resets = 139 -- repeat = 3, ext_offset = 34, # 9 -> None
+resets = 140 -- repeat = 3, ext_offset = 34, # 10 -> None
+resets = 141 -- repeat = 3, ext_offset = 35, # 1 -> bytearray(b'Access Denied.....')
+resets = 141 -- repeat = 3, ext_offset = 35, # 2 -> bytearray(b'Access Denied.....')
+resets = 141 -- repeat = 3, ext_offset = 35, # 3 -> None
+resets = 142 -- repeat = 3, ext_offset = 35, # 4 -> None
+resets = 143 -- repeat = 3, ext_offset = 35, # 5 -> None
+resets = 144 -- repeat = 3, ext_offset = 35, # 6 -> bytearray(b'Access Denied.....')
+resets = 144 -- repeat = 3, ext_offset = 35, # 7 -> None
+resets = 145 -- repeat = 3, ext_offset = 35, # 8 -> bytearray(b'Access Denied.....')
+resets = 145 -- repeat = 3, ext_offset = 35, # 9 -> bytearray(b'Access Denied.....')
+resets = 145 -- repeat = 3, ext_offset = 35, # 10 -> None
+resets = 146 -- repeat = 3, ext_offset = 36, # 1 -> bytearray(b'Access Denied.....')
+resets = 146 -- repeat = 3, ext_offset = 36, # 2 -> None
+resets = 147 -- repeat = 3, ext_offset = 36, # 3 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 36, # 4 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 36, # 5 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 36, # 6 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 36, # 7 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 36, # 8 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 36, # 9 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 36, # 10 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 37, # 1 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 37, # 2 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 37, # 3 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 37, # 4 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 37, # 5 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 37, # 6 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 37, # 7 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 37, # 8 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 37, # 9 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 37, # 10 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 38, # 1 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 38, # 2 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 38, # 3 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 38, # 4 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 38, # 5 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 38, # 6 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 38, # 7 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 38, # 8 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 38, # 9 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 38, # 10 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 39, # 1 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 39, # 2 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 39, # 3 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 39, # 4 -> bytearray(b'Access Denied.....')
+resets = 147 -- repeat = 3, ext_offset = 39, # 5 -> None
+resets = 148 -- repeat = 3, ext_offset = 39, # 6 -> bytearray(b'Access Denied.....')
+resets = 148 -- repeat = 3, ext_offset = 39, # 7 -> bytearray(b'Access Denied.....')
+resets = 148 -- repeat = 3, ext_offset = 39, # 8 -> None
+resets = 149 -- repeat = 3, ext_offset = 39, # 9 -> None
+resets = 150 -- repeat = 3, ext_offset = 39, # 10 -> bytearray(b'Access Denied.....')
+resets = 150 -- repeat = 3, ext_offset = 40, # 1 -> bytearray(b'Access Denied.....')
+resets = 150 -- repeat = 3, ext_offset = 40, # 2 -> bytearray(b'Access Denied.....')
+resets = 150 -- repeat = 3, ext_offset = 40, # 3 -> bytearray(b'Access Denied.....')
+resets = 150 -- repeat = 3, ext_offset = 40, # 4 -> bytearray(b'Access Denied.....')
+resets = 150 -- repeat = 3, ext_offset = 40, # 5 -> bytearray(b'Access Denied.....')
+resets = 150 -- repeat = 3, ext_offset = 40, # 6 -> bytearray(b'Access Denied.....')
+resets = 150 -- repeat = 3, ext_offset = 40, # 7 -> bytearray(b'Access Denied.....')
+resets = 150 -- repeat = 3, ext_offset = 40, # 8 -> bytearray(b'Access Denied.....')
+resets = 150 -- repeat = 3, ext_offset = 40, # 9 -> None
+resets = 151 -- repeat = 3, ext_offset = 40, # 10 -> bytearray(b'Access Denied.....')
+resets = 151 -- repeat = 4, ext_offset = 5, # 1 -> None
+resets = 152 -- repeat = 4, ext_offset = 5, # 2 -> None
+resets = 153 -- repeat = 4, ext_offset = 5, # 3 -> None
+resets = 154 -- repeat = 4, ext_offset = 5, # 4 -> None
+resets = 155 -- repeat = 4, ext_offset = 5, # 5 -> None
+resets = 156 -- repeat = 4, ext_offset = 5, # 6 -> None
+resets = 157 -- repeat = 4, ext_offset = 5, # 7 -> None
+resets = 158 -- repeat = 4, ext_offset = 5, # 8 -> None
+resets = 159 -- repeat = 4, ext_offset = 5, # 9 -> None
+resets = 160 -- repeat = 4, ext_offset = 5, # 10 -> None
+resets = 161 -- repeat = 4, ext_offset = 6, # 1 -> None
+resets = 162 -- repeat = 4, ext_offset = 6, # 2 -> None
+resets = 163 -- repeat = 4, ext_offset = 6, # 3 -> None
+resets = 164 -- repeat = 4, ext_offset = 6, # 4 -> None
+resets = 165 -- repeat = 4, ext_offset = 6, # 5 -> None
+resets = 166 -- repeat = 4, ext_offset = 6, # 6 -> None
+resets = 167 -- repeat = 4, ext_offset = 6, # 7 -> None
+resets = 168 -- repeat = 4, ext_offset = 6, # 8 -> None
+resets = 169 -- repeat = 4, ext_offset = 6, # 9 -> None
+resets = 170 -- repeat = 4, ext_offset = 6, # 10 -> None
+resets = 171 -- repeat = 4, ext_offset = 7, # 1 -> None
+resets = 172 -- repeat = 4, ext_offset = 7, # 2 -> None
+resets = 173 -- repeat = 4, ext_offset = 7, # 3 -> None
+resets = 174 -- repeat = 4, ext_offset = 7, # 4 -> None
+resets = 175 -- repeat = 4, ext_offset = 7, # 5 -> None
+resets = 176 -- repeat = 4, ext_offset = 7, # 6 -> None
+resets = 177 -- repeat = 4, ext_offset = 7, # 7 -> None
+resets = 178 -- repeat = 4, ext_offset = 7, # 8 -> None
+resets = 179 -- repeat = 4, ext_offset = 7, # 9 -> None
+resets = 180 -- repeat = 4, ext_offset = 7, # 10 -> None
+resets = 181 -- repeat = 4, ext_offset = 8, # 1 -> bytearray(b'Access Denied.....')
+resets = 181 -- repeat = 4, ext_offset = 8, # 2 -> None
+resets = 182 -- repeat = 4, ext_offset = 8, # 3 -> None
+resets = 183 -- repeat = 4, ext_offset = 8, # 4 -> None
+resets = 184 -- repeat = 4, ext_offset = 8, # 5 -> None
+resets = 185 -- repeat = 4, ext_offset = 8, # 6 -> None
+resets = 186 -- repeat = 4, ext_offset = 8, # 7 -> None
+resets = 187 -- repeat = 4, ext_offset = 8, # 8 -> bytearray(b'Access Denied.....')
+resets = 187 -- repeat = 4, ext_offset = 8, # 9 -> None
+resets = 188 -- repeat = 4, ext_offset = 8, # 10 -> None
+resets = 189 -- repeat = 4, ext_offset = 9, # 1 -> None
+resets = 190 -- repeat = 4, ext_offset = 9, # 2 -> None
+resets = 191 -- repeat = 4, ext_offset = 9, # 3 -> bytearray(b'Access Denied.....')
+resets = 191 -- repeat = 4, ext_offset = 9, # 4 -> bytearray(b'Access Denied.....')
+resets = 191 -- repeat = 4, ext_offset = 9, # 5 -> bytearray(b'Access Denied.....')
+resets = 191 -- repeat = 4, ext_offset = 9, # 6 -> bytearray(b'Access Denied.....')
+resets = 191 -- repeat = 4, ext_offset = 9, # 7 -> bytearray(b'Access Denied.....')
+resets = 191 -- repeat = 4, ext_offset = 9, # 8 -> bytearray(b'Access Denied.....')
+resets = 191 -- repeat = 4, ext_offset = 9, # 9 -> bytearray(b'Access Denied.....')
+resets = 191 -- repeat = 4, ext_offset = 9, # 10 -> bytearray(b'Access Denied.....')
+resets = 191 -- repeat = 4, ext_offset = 10, # 1 -> None
+resets = 192 -- repeat = 4, ext_offset = 10, # 2 -> None
+resets = 193 -- repeat = 4, ext_offset = 10, # 3 -> None
+resets = 194 -- repeat = 4, ext_offset = 10, # 4 -> None
+resets = 195 -- repeat = 4, ext_offset = 10, # 5 -> None
+resets = 196 -- repeat = 4, ext_offset = 10, # 6 -> None
